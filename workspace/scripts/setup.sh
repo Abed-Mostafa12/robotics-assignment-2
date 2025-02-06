@@ -9,6 +9,7 @@ cd docs
 echo content of documet 1 > doc1.docx
 echo document 2 content > doc2.docx
 echo doc 3 > doc3.docx
+
 echo "introduction ..." >welcome.txt
 cat doc1.docx doc2.docx > summary.txt
 cd ..
