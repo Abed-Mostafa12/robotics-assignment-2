@@ -1,2 +1,0 @@
-content of documet 1
-document 2 content
